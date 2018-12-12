@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#89070C</color>
+    <color name="colorPrimaryDark">#89070C</color>
+    <color name="colorAccent">#89070C</color>
+    <color name="harvard">#A2070D</color>
+    <color name="cinza">#47525E</color>
+    <color name="google">#ce2a15</color>
+    <color name="facebook">#2f66ab</color>
+    <color name="branco">#ffff</color>
+    <color name="black">#000000</color>
+    <color name="backgroundFilter">#ffffff</color>
+</resources>
